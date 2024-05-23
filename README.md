@@ -3,8 +3,7 @@ Language Translator
 
 Description
 
-Language Translator is a Python-based application that translates text from one language to another. This project leverages APIs for translation and provides a simple command-line interface for users to translate text easily.
-
+Language Translator is a Python-based application that translates text from one language to another. This project uses basic translation logic without relying on external APIs, providing a straightforward solution for text translation.
 Features
 
     Translate text between multiple languages.
